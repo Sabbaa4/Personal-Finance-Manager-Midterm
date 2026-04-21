@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Finance Manager</string>
+    <string name="sb_app_title">The Sovereign Ledger</string>
+    <string name="sb_input_title">Enter Your Finances</string>
+    <string name="sb_input_subtitle">Curate your wealth profile to unlock deep insights.</string>
+    <string name="sb_label_salary">MONTHLY SALARY</string>
+    <string name="sb_label_rent">HOUSING / RENT</string>
+    <string name="sb_label_food">FOOD &amp; DINING</string>
+    <string name="sb_hint_amount">0.00</string>
+    <string name="sb_btn_calculate">Calculate Wealth</string>
+    <string name="sb_result_title">Ledger Analysis</string>
+    <string name="sb_label_identity">ACCOUNT IDENTITY</string>
+    <string name="sb_label_fiscal">FISCAL CALCULATION RESULT</string>
+    <string name="sb_label_inflows">Total Inflows (Salary)</string>
+    <string name="sb_label_outflows">Total Outflows (Expenses)</string>
+    <string name="sb_label_capital">Projected Retained Capital</string>
+    <string name="sb_label_savings_rate">Savings Rate</string>
+    <string name="sb_label_status">Status</string>
+    <string name="sb_status_optimal">Optimal</string>
+    <string name="sb_status_deficit">⚠ DEFICIT</string>
+    <string name="sb_btn_back">← Back to Input</string>
+</resources>

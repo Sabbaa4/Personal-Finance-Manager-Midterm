@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sb_margin_page">24dp</dimen>
+    <dimen name="sb_margin_section">32dp</dimen>
+    <dimen name="sb_margin_item">16dp</dimen>
+    <dimen name="sb_margin_small">8dp</dimen>
+    <dimen name="sb_corner_radius">16dp</dimen>
+    <dimen name="sb_corner_radius_small">12dp</dimen>
+    <dimen name="sb_edit_height">56dp</dimen>
+    <dimen name="sb_button_height">56dp</dimen>
+    <dimen name="sb_title_size">28sp</dimen>
+    <dimen name="sb_subtitle_size">14sp</dimen>
+    <dimen name="sb_label_size">12sp</dimen>
+    <dimen name="sb_body_size">16sp</dimen>
+    <dimen name="sb_amount_large">32sp</dimen>
+    <dimen name="sb_amount_medium">24sp</dimen>
+    <dimen name="sb_avatar_size">48dp</dimen>
+</resources>

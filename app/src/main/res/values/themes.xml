@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Midterm" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/sb_primary</item>
+        <item name="colorPrimaryDark">@color/sb_primary_dark</item>
+        <item name="colorAccent">@color/sb_primary</item>
+        <item name="android:windowBackground">@color/sb_background</item>
+        <item name="android:statusBarColor">@color/sb_background</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

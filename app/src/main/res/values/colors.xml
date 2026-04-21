@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="sb_primary">#3F51B5</color>
+    <color name="sb_primary_dark">#303F9F</color>
+    <color name="sb_primary_light">#C5CAE9</color>
+
+    <!-- Background Colors -->
+    <color name="sb_background">#F5F7FA</color>
+    <color name="sb_card_background">#FFFFFF</color>
+    <color name="sb_card_border">#E8ECF1</color>
+    <color name="sb_edit_bg">#F0F2F5</color>
+    <color name="sb_result_highlight_bg">#F0FAF0</color>
+    <color name="sb_result_highlight_bg_negative">#FFF0F0</color>
+
+    <!-- Text Colors -->
+    <color name="sb_text_primary">#1A1D29</color>
+    <color name="sb_text_secondary">#6B7280</color>
+    <color name="sb_text_hint">#9CA3AF</color>
+
+    <!-- Status Colors -->
+    <color name="sb_positive">#2E7D32</color>
+    <color name="sb_negative">#C62828</color>
+
+    <!-- Identity Avatar -->
+    <color name="sb_avatar_bg">#E8EAF6</color>
+    <color name="sb_avatar_text">#3F51B5</color>
+
+    <!-- Divider -->
+    <color name="sb_divider">#3F51B5</color>
+
+    <!-- Standard -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+</resources>
