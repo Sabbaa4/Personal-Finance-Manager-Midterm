@@ -11,7 +11,7 @@ package com.example.midterm.model
 class FinanceManager {
 
     companion object {
-        // გვარი: "ბარამიძე" — 8 ქართული ასო
+        // გვარი: "ბარამიძე" — 8 ასო
         private const val SURNAME_LETTER_COUNT = 8
 
         // დაბადების თვე (მაგ: იანვარი=1, თებერვალი=2, ... დეკემბერი=12)
